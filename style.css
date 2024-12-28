@@ -140,3 +140,8 @@ article p{
 .footer-author {
     text-align: center;
 }
+
+.scale:hover{
+    transform: scale(1.5);
+    transition: 1s;
+}
